@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Kaveesha Induwara, a Developer from Sri Lanka 🇱🇰.
+## Hi, I'm Kaveesha Nimsara, a Developer from Sri Lanka 🇱🇰.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
